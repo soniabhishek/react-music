@@ -40,7 +40,7 @@
  * that is actually delivered to the end user browser.
  */
 
-/* eslint-disable no-var */
+
 var webpack = require('webpack');
 var path = require('path');
 
